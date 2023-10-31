@@ -1,0 +1,111 @@
+﻿
+@model IList<view_HoaDonDP>
+
+<main id="main" class="main">
+	<div class="pagetitle">
+		<h2>Danh sách đơn đặt phòng</h2>
+	</div>
+	<section class="section dashboard">
+		<div class="row">
+			<div class="col-xxl-4 col-md-6">
+              <div class="card info-card revenue-card">
+                <div class="card-body">
+                  <h5 class="card-title">Doanh Thu <span>| Ngày Này</span></h5>
+
+                  <div class="d-flex align-items-center">
+                    <div class="card-icon rounded-circle d-flex align-items-center justify-content-center">
+                      <i class="bi bi-currency-dollar"></i>
+                    </div>
+                    <div class="ps-3">
+                      <h6>$@ViewBag.DoanhThuHomNay</h6>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+			<div class="col-xxl-4 col-md-6">
+              <div class="card info-card revenue-card">
+
+                <div class="card-body">
+                  <h5 class="card-title">Doanh Thu <span>| Tháng Này</span></h5>
+
+                  <div class="d-flex align-items-center">
+                    <div class="card-icon rounded-circle d-flex align-items-center justify-content-center">
+                      <i class="bi bi-currency-dollar"></i>
+                    </div>
+                    <div class="ps-3">
+                      <h6>$@ViewBag.DoanhThuThangNay</h6>
+
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+            <div class="col-xxl-4 col-xl-12">
+
+              <div class="card info-card customers-card">
+
+                <div class="card-body">
+                  <h5 class="card-title">Đơn <span>| Tháng Này</span></h5>
+
+                  <div class="d-flex align-items-center">
+                    <div class="card-icon rounded-circle d-flex align-items-center justify-content-center">
+                      <i class="bi bi-people"></i>
+                    </div>
+                    <div class="ps-3">
+                      <h6>@ViewBag.SoDonThangNay</h6>
+
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+
+            </div>
+
+		</div>
+		<div class="row">
+			<div class="col-12">
+				<div class="card recent-sales overflow-auto">
+					<div class="card-body mt-4">
+
+						<table class="table table-borderless datatable">
+							<thead>
+								<tr>
+									<th class="col-1 text-center">Mã Đặt Phòng</th>
+									<th class="col-2 text-center">Người Đặt Phòng</th>
+									<td class="col-2 text-center">Tên Phòng</td>
+									<td class="col-2 text-center">Bắt Đầu</td>
+									<td class="col-2 text-center">Kết Thúc</td>
+									<td class="col-2 text-center">Trạng Thái</td>
+									<td class="col-2 text-center">Ghi Chú</td>
+
+								</tr>
+							</thead>
+							<tbody>
+								@foreach (var item in Model)
+								{
+									<tr>
+										<th class="text-center" scope="row"><a asp-action="XemChiTiet" asp-area="Admin" asp-route-id="@item.ID">Đơn @item.ID</a></th>
+										<td class="ext-center">
+											@item.HoTen
+										</td>
+										<td class="ext-center">
+											@item.TenPhong
+										</td>
+										<td class="ext-center">@item.NgayBatDau.ToString("dd/MM/yyyy")</td>
+										<td class="ext-center">@item.NgayKetThuc.ToString("dd/MM/yyyy")</td>
+										<td class="ext-center">@item.LayTrangThaiStr()</td>
+										<td class="ext-center">@item.GhiChu</td>
+									</tr>
+								}
+							</tbody>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+</main>

@@ -1,0 +1,47 @@
+﻿@model doan.Models.NhanVien
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<main id="main" class="main">
+    <div class="pagetitle">
+        <h2>Chỉnh sửa thông tin nhân viên</h2>
+    </div>
+    <form method="post" asp-action="Sua">
+        <input type="hidden" asp-for="ID"/>
+        <div class="form-group">
+            <label asp-for="HoTen">Họ và tên</label>
+            <input type="text" class="form-control" asp-for="HoTen">
+        </div>
+        <div class="form-group col-md-6">
+            <label class="control-label">Ảnh</label>
+            <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                    <button class="btn btn-success" type="button" onclick="openDialog()">Chọn hình ảnh</button>
+                </div>
+                <input type="text" class="form-control" asp-for="Anh" id="file_input" aria-describedby="button-addon2">
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="TaiKhoan">Tài khoản</label>
+            <input type="text" class="form-control" asp-for="TaiKhoan">
+        </div>
+        <div class="form-group">
+            <label asp-for="MatKhau">Mật khẩu mới</label>
+            <input type="password" class="form-control" name="MatKhau">
+        </div>
+        <div class="form-group">
+            <label asp-for="SoDienThoai">Số điện thoại</label>
+            <input type="text" class="form-control" asp-for="SoDienThoai">
+        </div>
+        <div class="form-group">
+            <label asp-for="VaiTro">Vai trò</label>
+            <input type="text" class="form-control" asp-for="VaiTro">
+        </div>
+        <button type="submit" class="btn btn-primary">Sửa</button>
+    </form>
+</main>
+
+@{
+    var summerNote = new doan.Areas.Admin.Models.SummerNote("#Content");
+    <partial name="_SummerNote" model="summerNote" />
+}

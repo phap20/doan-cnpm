@@ -1,0 +1,72 @@
+﻿@model doan.Models.Phong
+@{
+	Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<main id="main" class="main">
+	<div class="pagetitle">
+		<h2>Thêm phòng</h2>
+	</div>
+	<form method="POST" asp-action="Them">
+		<input type="hidden" asp-for="ID">
+		<div class="form-group">
+            <label asp-for="TenPhong">Tên phòng</label>
+            <input type="text" class="form-control" asp-for="TenPhong">
+		</div>
+		<div class="form-group">
+            <label asp-for="MoTa">Mô tả</label>
+            <input type="text" class="form-control" asp-for="MoTa">
+		</div>
+        <div class="form-group col-md-6">
+            <label class="control-label">Ảnh</label>
+            <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                    <button class="btn btn-success" type="button" onclick="openDialog()">Chọn hình ảnh</button>
+                </div>
+                <input type="text" class="form-control" asp-for="Anh" id="file_input" aria-describedby="button-addon2">
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="SoGiuong">Số giường</label>
+            <input type="number" class="form-control" asp-for="SoGiuong">
+        </div>
+        <div class="form-group">
+            <label asp-for="SoBonTam">Số bồn tắm</label>
+            <input type="number" class="form-control" asp-for="SoBonTam">
+        </div>
+        <div class="form-group mt-5 mb-5">
+            <label>
+                @Html.CheckBox("Wifi", true)
+                Wifi
+            </label>
+        </div>
+        <div class="form-group">
+            <label asp-for="Gia">Giá</label>
+            <input type="number" class="form-control" asp-for="Gia">
+        </div>
+        <div class="form-group col-md-6">
+            <div class="alert-danger" asp-validation-summary="ModelOnly"></div>
+            <label asp-for="IDLoaiPhong">Loại phòng</label>
+            <select class="form-control" asp-for="IDLoaiPhong" asp-items="@(new SelectList(ViewBag.lplist, "Value", "Text"))">
+            </select>
+        </div>
+        <div class="form-group col-md-6">
+            <div class="alert-danger" asp-validation-summary="ModelOnly"></div>
+            <label asp-for="IDTang">Tầng</label>
+            <select class="form-control" asp-for="IDTang" asp-items="@(new SelectList(ViewBag.tanglist, "Value", "Text"))">
+            </select>
+        </div>
+        
+        <div class="form-group mt-5 mb-5">
+            <label>
+                @Html.CheckBox("TrangThai", true)
+                Hiển thị
+            </label>
+        </div>
+		<button type="submit" class="btn btn-primary">Thêm</button>
+	</form>
+</main>
+
+@{
+    var summerNote = new doan.Areas.Admin.Models.SummerNote("#Content");
+    <partial name="_SummerNote" model="summerNote"/>
+}

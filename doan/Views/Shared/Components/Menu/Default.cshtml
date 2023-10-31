@@ -1,0 +1,10 @@
+﻿@using doan.Utilities
+@model IList<Menu>
+
+
+<div class="navbar-nav mr-auto py-0">
+    @foreach (var item in Model.OrderBy(m => m.ThuTu))
+    {
+        <a  asp-controller="@item.ControllerName" asp-action="@item.ActionName" class="nav-item nav-link">@item.Ten</a>
+    }
+</div>

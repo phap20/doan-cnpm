@@ -1,0 +1,75 @@
+﻿
+
+@model IList<view_DatPhong_Phong>
+
+<!-- Page Header Start -->
+<div class="container-fluid page-header mb-5 p-0" style="background-image: url(img/carousel-1.jpg);">
+    <div class="container-fluid page-header-inner py-5">
+        <div class="container text-center pb-5">
+            <h1 class="display-3 text-white mb-3 animated slideInDown">Danh Sách Đặt Phòng</h1>
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb justify-content-center text-uppercase">
+                    <li class="breadcrumb-item"><a href="/">Trang Chủ</a></li>
+                    <li class="breadcrumb-item text-white active" aria-current="page">Đặt Phòng</li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+</div>
+<!-- Page Header End -->
+
+@await Component.InvokeAsync("Booking")
+
+<!-- Booking Start -->
+<div class="container-xxl py-5" style="padding-bottom: 200px !important">
+    <div class="container">
+        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+            <h6 class="section-title text-center text-primary text-uppercase">ĐẶT PHÒNG</h6>
+            <h1 class="mb-5">Phòng Đã Đặt</h1>
+        </div>
+        <div class="row g-5">
+            <div class="col-lg-12">
+                <p class="pt-2 pb-2">@TempData["msg"]</p>
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th scope="col">Mã Đặt Phòng</th>
+                            <th scope="col">Tên Phòng</th>
+                            <th scope="col">Bắt Đầu</th>
+                            <th scope="col">Kết Thúc</th>
+                            <th scope="col">Trạng Thái</th>
+                            <th scope="col">Giá</th>
+                            <th scope="col">Thành Tiền</th>
+                            <th scope="col">Yêu Cầu</th>
+                            <th scope="col">Ghi Chú</th>
+                            <th scope="col"></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <th scope="row">@item.ID</th>
+                                <td><a asp-action="DatPhong" asp-route-IDPhong="@item.IDPhong">@item.TenPhong</a></td>
+                                <td>@item.NgayBatDau.ToString("dd/MM/yyyy HH:mm")</td>
+                                <td>@item.NgayKetThuc.ToString("dd/MM/yyyy HH:mm")</td>
+                                <td>@item.LayTrangThaiStr()</td>
+                                <td>@item.Gia</td>
+                                <td>@item.ThanhTien</td>
+                                <td>@item.YeuCau</td>
+                                <td>@item.GhiChu</td>
+                                <td>
+                                    @if (item.TrangThai == 0)
+                                    {
+                                        <a asp-controller="Home" asp-action="HuyDatPhong" asp-route-id="@item.ID">Hủy Đặt Phòng</a>
+                                    }
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Booking End -->

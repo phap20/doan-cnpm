@@ -1,0 +1,49 @@
+﻿
+<!-- Booking Start -->
+<form method="get" asp-action="Phong">
+    <div class="container-fluid booking pb-5 wow fadeIn" data-wow-delay="0.1s">
+        <div class="container">
+            <div class="bg-white shadow" style="padding: 35px;">
+                <div class="row g-2">
+                    <div class="col-md-10">
+                        <div class="row g-2">
+                            <div class="col-md-3">
+                                <div class="date" id="date1" data-target-input="nearest">
+                                    <input type="text" autocomplete="off" name="BatDau" class="form-control datetimepicker-input"
+                                        placeholder="Bắt Đầu" data-target="#date1" data-toggle="datetimepicker" />
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="date" id="date2" data-target-input="nearest">
+                                    <input type="text" autocomplete="off" name="KetThuc" class="form-control datetimepicker-input" placeholder="Kết Thúc" data-target="#date2" data-toggle="datetimepicker"/>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <select class="form-select" name="IDTang">
+                                    <option value="0" selected>Chọn Tầng</option>
+                                    @foreach (var item in ViewBag.dsTang)
+                                    {
+                                        <option value="@item.ID">@item.TenTang</option>
+                                    }
+                                </select>
+                            </div>
+                            <div class="col-md-3">
+                                <select class="form-select" name="IDLoaiPhong">
+                                    <option value="0" selected>Chọn Loại Phòng</option>
+                                    @foreach (var item in ViewBag.dsLoaiPhong)
+                                    {
+                                        <option value="@item.ID">@item.TenLoaiPhong</option>
+                                    }
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <button class="btn btn-primary w-100">Submit</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+<!-- Booking End -->

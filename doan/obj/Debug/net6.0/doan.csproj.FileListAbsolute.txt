@@ -1,0 +1,1430 @@
+E:\web\doan\doan\obj\Debug\net6.0\doan.csproj.AssemblyReference.cache
+E:\web\doan\doan\obj\Debug\net6.0\doan.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\doan\doan\obj\Debug\net6.0\doan.AssemblyInfoInputs.cache
+E:\web\doan\doan\obj\Debug\net6.0\doan.AssemblyInfo.cs
+E:\web\doan\doan\obj\Debug\net6.0\doan.csproj.CoreCompileInputs.cache
+E:\web\doan\doan\obj\Debug\net6.0\doan.MvcApplicationPartsAssemblyInfo.cache
+E:\web\doan\doan\obj\Debug\net6.0\doan.RazorAssemblyInfo.cache
+E:\web\doan\doan\obj\Debug\net6.0\doan.RazorAssemblyInfo.cs
+E:\web\doan\doan\bin\Debug\net6.0\appsettings.Development.json
+E:\web\doan\doan\bin\Debug\net6.0\appsettings.json
+E:\web\doan\doan\bin\Debug\net6.0\doan.staticwebassets.runtime.json
+E:\web\doan\doan\bin\Debug\net6.0\doan.exe
+E:\web\doan\doan\bin\Debug\net6.0\doan.deps.json
+E:\web\doan\doan\bin\Debug\net6.0\doan.runtimeconfig.json
+E:\web\doan\doan\bin\Debug\net6.0\doan.dll
+E:\web\doan\doan\bin\Debug\net6.0\ref\doan.dll
+E:\web\doan\doan\bin\Debug\net6.0\doan.pdb
+E:\web\doan\doan\obj\Debug\net6.0\staticwebassets.build.json
+E:\web\doan\doan\obj\Debug\net6.0\staticwebassets.development.json
+E:\web\doan\doan\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\web\doan\doan\obj\Debug\net6.0\scopedcss\bundle\doan.styles.css
+E:\web\doan\doan\obj\Debug\net6.0\scopedcss\projectbundle\doan.bundle.scp.css
+E:\web\doan\doan\obj\Debug\net6.0\doan.dll
+E:\web\doan\doan\obj\Debug\net6.0\ref\doan.dll
+E:\web\doan\doan\obj\Debug\net6.0\doan.pdb
+E:\web\doan\doan\obj\Debug\net6.0\doan.genruntimeconfig.cache
+E:\web\doan\doan\bin\Debug\net6.0\Azure.Core.dll
+E:\web\doan\doan\bin\Debug\net6.0\Azure.Identity.dll
+E:\web\doan\doan\bin\Debug\net6.0\elFinder.NetCore.dll
+E:\web\doan\doan\bin\Debug\net6.0\Humanizer.dll
+E:\web\doan\doan\bin\Debug\net6.0\MessagePack.dll
+E:\web\doan\doan\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.Build.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\web\doan\doan\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\web\doan\doan\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\web\doan\doan\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\web\doan\doan\bin\Debug\net6.0\NuGet.Common.dll
+E:\web\doan\doan\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\web\doan\doan\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\web\doan\doan\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\web\doan\doan\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\web\doan\doan\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\web\doan\doan\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\web\doan\doan\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\web\doan\doan\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\web\doan\doan\bin\Debug\net6.0\SlugGenerator.dll
+E:\web\doan\doan\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\web\doan\doan\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\web\doan\doan\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\web\doan\doan\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\web\doan\doan\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\web\doan\doan\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\web\doan\doan\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\web\doan\doan\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\web\doan\doan\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\web\doan\doan\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\web\doan\doan\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\web\doan\doan\bin\Debug\net6.0\System.Memory.Data.dll
+E:\web\doan\doan\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\web\doan\doan\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\web\doan\doan\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\web\doan\doan\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\web\doan\doan\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\web\doan\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\doan\doan\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\web\doan\doan\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\web\doan\doan\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\web\doan\doan\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\web\doan\doan\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\web\doan\doan\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\web\doan\doan\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\web\doan\doan\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\web\doan\doan\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\web\doan\doan\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\web\doan\doan\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\web\doan\doan\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\web\doan\doan\obj\Debug\net6.0\doan.MvcApplicationPartsAssemblyInfo.cs
+E:\web\doan\doan\obj\Debug\net6.0\doan.csproj.CopyComplete
+E:\web\doan\doan\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\web\doan1\doan\bin\Debug\net6.0\appsettings.Development.json
+E:\web\doan1\doan\bin\Debug\net6.0\appsettings.json
+E:\web\doan1\doan\bin\Debug\net6.0\doan.staticwebassets.runtime.json
+E:\web\doan1\doan\bin\Debug\net6.0\doan.exe
+E:\web\doan1\doan\bin\Debug\net6.0\doan.deps.json
+E:\web\doan1\doan\bin\Debug\net6.0\doan.runtimeconfig.json
+E:\web\doan1\doan\bin\Debug\net6.0\doan.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ref\doan.dll
+E:\web\doan1\doan\bin\Debug\net6.0\doan.pdb
+E:\web\doan1\doan\bin\Debug\net6.0\Azure.Core.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Azure.Identity.dll
+E:\web\doan1\doan\bin\Debug\net6.0\elFinder.NetCore.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Humanizer.dll
+E:\web\doan1\doan\bin\Debug\net6.0\MessagePack.dll
+E:\web\doan1\doan\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.Build.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\web\doan1\doan\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\web\doan1\doan\bin\Debug\net6.0\NuGet.Common.dll
+E:\web\doan1\doan\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\web\doan1\doan\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\web\doan1\doan\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\web\doan1\doan\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\web\doan1\doan\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\web\doan1\doan\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\web\doan1\doan\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\web\doan1\doan\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\web\doan1\doan\bin\Debug\net6.0\SlugGenerator.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\web\doan1\doan\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\web\doan1\doan\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\web\doan1\doan\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\web\doan1\doan\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\web\doan1\doan\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\web\doan1\doan\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\web\doan1\doan\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\web\doan1\doan\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\web\doan1\doan\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\web\doan1\doan\bin\Debug\net6.0\System.Memory.Data.dll
+E:\web\doan1\doan\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\web\doan1\doan\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\web\doan1\doan\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\web\doan1\doan\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\web\doan1\doan\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\web\doan1\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\doan1\doan\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\web\doan1\doan\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\web\doan1\doan\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\web\doan1\doan\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\web\doan1\doan\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\web\doan1\doan\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\web\doan1\doan\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\web\doan1\doan\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\web\doan1\doan\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\web\doan1\doan\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\web\doan1\doan\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\web\doan1\doan\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\web\doan1\doan\obj\Debug\net6.0\doan.csproj.AssemblyReference.cache
+E:\web\doan1\doan\obj\Debug\net6.0\doan.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\doan1\doan\obj\Debug\net6.0\doan.AssemblyInfoInputs.cache
+E:\web\doan1\doan\obj\Debug\net6.0\doan.AssemblyInfo.cs
+E:\web\doan1\doan\obj\Debug\net6.0\doan.csproj.CoreCompileInputs.cache
+E:\web\doan1\doan\obj\Debug\net6.0\doan.MvcApplicationPartsAssemblyInfo.cs
+E:\web\doan1\doan\obj\Debug\net6.0\doan.MvcApplicationPartsAssemblyInfo.cache
+E:\web\doan1\doan\obj\Debug\net6.0\doan.RazorAssemblyInfo.cache
+E:\web\doan1\doan\obj\Debug\net6.0\doan.RazorAssemblyInfo.cs
+E:\web\doan1\doan\obj\Debug\net6.0\staticwebassets.build.json
+E:\web\doan1\doan\obj\Debug\net6.0\staticwebassets.development.json
+E:\web\doan1\doan\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\web\doan1\doan\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\web\doan1\doan\obj\Debug\net6.0\scopedcss\bundle\doan.styles.css
+E:\web\doan1\doan\obj\Debug\net6.0\scopedcss\projectbundle\doan.bundle.scp.css
+E:\web\doan1\doan\obj\Debug\net6.0\doan.csproj.CopyComplete
+E:\web\doan1\doan\obj\Debug\net6.0\doan.dll
+E:\web\doan1\doan\obj\Debug\net6.0\ref\doan.dll
+E:\web\doan1\doan\obj\Debug\net6.0\doan.pdb
+E:\web\doan1\doan\obj\Debug\net6.0\doan.genruntimeconfig.cache
+E:\web\khachsan\doan\obj\Debug\net6.0\doan.csproj.AssemblyReference.cache
+E:\web\khachsan\doan\obj\Debug\net6.0\doan.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\khachsan\doan\obj\Debug\net6.0\doan.AssemblyInfoInputs.cache
+E:\web\khachsan\doan\obj\Debug\net6.0\doan.AssemblyInfo.cs
+E:\web\khachsan\doan\obj\Debug\net6.0\doan.csproj.CoreCompileInputs.cache
+E:\web\khachsan\doan\obj\Debug\net6.0\doan.MvcApplicationPartsAssemblyInfo.cs
+E:\web\khachsan\doan\obj\Debug\net6.0\doan.MvcApplicationPartsAssemblyInfo.cache
+E:\web\khachsan\doan\obj\Debug\net6.0\doan.RazorAssemblyInfo.cache
+E:\web\khachsan\doan\obj\Debug\net6.0\doan.RazorAssemblyInfo.cs
+E:\web\khachsan\doan\obj\Debug\net6.0\doan.dll
+E:\web\khachsan\doan\obj\Debug\net6.0\ref\doan.dll
+E:\web\khachsan\doan\obj\Debug\net6.0\doan.pdb
+E:\web\khachsan\doan\bin\Debug\net6.0\appsettings.Development.json
+E:\web\khachsan\doan\bin\Debug\net6.0\appsettings.json
+E:\web\khachsan\doan\bin\Debug\net6.0\doan.staticwebassets.runtime.json
+E:\web\khachsan\doan\bin\Debug\net6.0\doan.exe
+E:\web\khachsan\doan\bin\Debug\net6.0\doan.deps.json
+E:\web\khachsan\doan\bin\Debug\net6.0\doan.runtimeconfig.json
+E:\web\khachsan\doan\bin\Debug\net6.0\doan.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ref\doan.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\doan.pdb
+E:\web\khachsan\doan\bin\Debug\net6.0\Azure.Core.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Azure.Identity.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\elFinder.NetCore.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Humanizer.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\MessagePack.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.Build.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\NuGet.Common.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\SlugGenerator.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\System.Memory.Data.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\web\khachsan\doan\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\web\khachsan\doan\obj\Debug\net6.0\staticwebassets.build.json
+E:\web\khachsan\doan\obj\Debug\net6.0\staticwebassets.development.json
+E:\web\khachsan\doan\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\web\khachsan\doan\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\web\khachsan\doan\obj\Debug\net6.0\scopedcss\bundle\doan.styles.css
+E:\web\khachsan\doan\obj\Debug\net6.0\scopedcss\projectbundle\doan.bundle.scp.css
+E:\web\khachsan\doan\obj\Debug\net6.0\doan.csproj.CopyComplete
+E:\web\khachsan\doan\obj\Debug\net6.0\doan.genruntimeconfig.cache
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\appsettings.json
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\doan.staticwebassets.runtime.json
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\doan.exe
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\doan.deps.json
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\doan.runtimeconfig.json
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\doan.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\doan.pdb
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\elFinder.NetCore.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\SlugGenerator.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\obj\Debug\net6.0\doan.csproj.AssemblyReference.cache
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\obj\Debug\net6.0\doan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\obj\Debug\net6.0\doan.AssemblyInfoInputs.cache
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\obj\Debug\net6.0\doan.AssemblyInfo.cs
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\obj\Debug\net6.0\doan.csproj.CoreCompileInputs.cache
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\obj\Debug\net6.0\doan.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\obj\Debug\net6.0\doan.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\obj\Debug\net6.0\doan.RazorAssemblyInfo.cache
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\obj\Debug\net6.0\doan.RazorAssemblyInfo.cs
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\obj\Debug\net6.0\scopedcss\bundle\doan.styles.css
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\obj\Debug\net6.0\scopedcss\projectbundle\doan.bundle.scp.css
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\obj\Debug\net6.0\doan.csproj.CopyComplete
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\obj\Debug\net6.0\doan.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\obj\Debug\net6.0\refint\doan.dll
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\obj\Debug\net6.0\doan.pdb
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\obj\Debug\net6.0\doan.genruntimeconfig.cache
+C:\Users\Xuan Toai\Documents\Học Tập\Học Kỳ 6\Đồ án\doan\obj\Debug\net6.0\ref\doan.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\appsettings.Development.json
+D:\asp\Đồ án\doan\bin\Debug\net6.0\appsettings.json
+D:\asp\Đồ án\doan\bin\Debug\net6.0\doan.staticwebassets.runtime.json
+D:\asp\Đồ án\doan\bin\Debug\net6.0\doan.exe
+D:\asp\Đồ án\doan\bin\Debug\net6.0\doan.deps.json
+D:\asp\Đồ án\doan\bin\Debug\net6.0\doan.runtimeconfig.json
+D:\asp\Đồ án\doan\bin\Debug\net6.0\doan.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\doan.pdb
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Azure.Core.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Azure.Identity.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\elFinder.NetCore.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Humanizer.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\MessagePack.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.Build.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\NuGet.Common.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\SlugGenerator.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\System.Memory.Data.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\asp\Đồ án\doan\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\asp\Đồ án\doan\obj\Debug\net6.0\doan.csproj.AssemblyReference.cache
+D:\asp\Đồ án\doan\obj\Debug\net6.0\doan.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp\Đồ án\doan\obj\Debug\net6.0\doan.AssemblyInfoInputs.cache
+D:\asp\Đồ án\doan\obj\Debug\net6.0\doan.AssemblyInfo.cs
+D:\asp\Đồ án\doan\obj\Debug\net6.0\doan.csproj.CoreCompileInputs.cache
+D:\asp\Đồ án\doan\obj\Debug\net6.0\doan.MvcApplicationPartsAssemblyInfo.cs
+D:\asp\Đồ án\doan\obj\Debug\net6.0\doan.MvcApplicationPartsAssemblyInfo.cache
+D:\asp\Đồ án\doan\obj\Debug\net6.0\doan.RazorAssemblyInfo.cache
+D:\asp\Đồ án\doan\obj\Debug\net6.0\doan.RazorAssemblyInfo.cs
+D:\asp\Đồ án\doan\obj\Debug\net6.0\staticwebassets\msbuild.doan.Microsoft.AspNetCore.StaticWebAssets.props
+D:\asp\Đồ án\doan\obj\Debug\net6.0\staticwebassets\msbuild.build.doan.props
+D:\asp\Đồ án\doan\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.doan.props
+D:\asp\Đồ án\doan\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.doan.props
+D:\asp\Đồ án\doan\obj\Debug\net6.0\staticwebassets.pack.json
+D:\asp\Đồ án\doan\obj\Debug\net6.0\staticwebassets.build.json
+D:\asp\Đồ án\doan\obj\Debug\net6.0\staticwebassets.development.json
+D:\asp\Đồ án\doan\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\asp\Đồ án\doan\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\asp\Đồ án\doan\obj\Debug\net6.0\scopedcss\bundle\doan.styles.css
+D:\asp\Đồ án\doan\obj\Debug\net6.0\scopedcss\projectbundle\doan.bundle.scp.css
+D:\asp\Đồ án\doan\obj\Debug\net6.0\doan.csproj.CopyComplete
+D:\asp\Đồ án\doan\obj\Debug\net6.0\doan.dll
+D:\asp\Đồ án\doan\obj\Debug\net6.0\refint\doan.dll
+D:\asp\Đồ án\doan\obj\Debug\net6.0\doan.pdb
+D:\asp\Đồ án\doan\obj\Debug\net6.0\doan.genruntimeconfig.cache
+D:\asp\Đồ án\doan\obj\Debug\net6.0\ref\doan.dll

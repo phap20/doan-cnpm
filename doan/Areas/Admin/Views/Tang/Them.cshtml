@@ -1,0 +1,21 @@
+﻿@model doan.Models.Tang
+@{
+	Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<main id="main" class="main">
+	<div class="pagetitle">
+		<h2>Thêm tầng</h2>
+	</div>
+	<form method="POST" asp-action="Them">
+		<div class="form-group">
+            <label asp-for="TenTang">Tên tầng</label>
+            <input type="text" class="form-control" asp-for="TenTang">
+		</div>
+		<button type="submit" class="btn btn-primary">Thêm</button>
+	</form>
+</main>
+
+@{
+    var summerNote = new doan.Areas.Admin.Models.SummerNote("#Content");
+    <partial name="_SummerNote" model="summerNote"/>
+}

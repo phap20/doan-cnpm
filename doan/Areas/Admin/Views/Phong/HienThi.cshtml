@@ -1,0 +1,75 @@
+﻿@using doan.Models;
+@model IList<Phong>
+@{
+	Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<main id="main" class="main">
+	<div class="pagetitle">
+		<h2>Danh sách phòng</h2>
+	</div>
+	<p>
+		<a type="button" class="btn btn-success" asp-area="Admin" asp-controller="Phong" asp-action="Them">
+			<i class="bi bi-file-earmark-text me-1"></i>Thêm phòng
+		</a>
+	</p>
+	<section class="section dashboard">
+		<div class="row">
+			<div class="col-12">
+				<div class="card recent-sales overflow-auto">
+					<div class="card-body mt-4">
+
+						<table class="table table-borderless datatable">
+							<thead>
+								<tr>
+									<th class="col-1 text-center">#</th>
+									<th class="col-3 text-center">Tên phòng</th>
+									<td class="col-2 text-center">Mô tả</td>
+									<td class="col-2 text-center">Ảnh</td>
+									<td class="col-1 text-center">Số giường</td>
+									<td class="col-1 text-center">Số bồn tắm</td>
+									<td class="col-1 text-center">Wifi</td>
+									<td class="col-1 text-center">Giá</td>
+									<td class="col-1 text-center">ID Tầng</td>
+									<td class="col-1 text-center">ID Loại Phòng</td>
+									<td class="col-1 text-center">Trạng Thái</td>
+									<td class="col-1 text-center">Chức năng</td>
+
+								</tr>
+							</thead>
+							<tbody>
+								@foreach (var item in Model)
+								{
+									<tr>
+										<th class="text-center" scope="row">@item.ID</th>
+										<td>
+											@item.TenPhong
+										</td>
+										<td class="ext-center">@item.MoTa</td>
+										<td class="ext-center">
+											<img src="@item.Anh" height="100">	
+										</td>
+										<td class="ext-center">@item.SoGiuong</td>
+										<td class="ext-center">@item.SoBonTam</td>
+										<td class="ext-center">@item.Wifi</td>
+										<td class="ext-center">@item.Gia</td>
+										<td class="ext-center">@item.IDTang</td>
+										<td class="ext-center">@item.IDLoaiPhong</td>
+										<td class="ext-center">@item.TrangThai</td>
+										<td class="ext-center">
+											<a asp-area="Admin" asp-controller="Phong" asp-action="Sua"
+										   asp-route-id="@item.ID" class="btn btn-primary btn-sm"
+										   title="Chỉnh sửa thông tin"><i class="bi bi-pencil"></i></a>
+											<a asp-area="Admin" asp-controller="Phong" asp-action="Xoa"
+										   asp-route-id="@item.ID" class="btn btn-danger btn-sm"
+										   title="Xóa"><i class="bi bi-trash"></i></a>
+										</td>
+									</tr>
+								}
+							</tbody>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+</main>

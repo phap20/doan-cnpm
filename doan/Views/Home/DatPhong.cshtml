@@ -1,0 +1,99 @@
+﻿@model Phong
+
+<!-- Page Header Start -->
+<div class="container-fluid page-header mb-5 p-0" style="background-image: url(img/carousel-1.jpg);">
+    <div class="container-fluid page-header-inner py-5">
+        <div class="container text-center pb-5">
+            <h1 class="display-3 text-white mb-3 animated slideInDown">Đặt Phòng</h1>
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb justify-content-center text-uppercase">
+                    <li class="breadcrumb-item"><a href="/">Trang Chủ</a></li>
+                    <li class="breadcrumb-item text-white active" aria-current="page">Đặt Phòng</li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+</div>
+<!-- Page Header End -->
+
+@await Component.InvokeAsync("Booking")
+
+<!-- Booking Start -->
+<div class="container-xxl py-5" style="padding-bottom: 200px !important">
+    <div class="container">
+        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+            <h6 class="section-title text-center text-primary text-uppercase">ĐẶT PHÒNG</h6>
+            <h1 class="mb-5">Book A <span class="text-primary text-uppercase">Luxury Room</span></h1>
+        </div>
+        <div class="row g-5">
+            <div class="col-lg-6">
+                <div class="row g-3">
+                    <div class="col-12 wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                        <div class="room-item shadow rounded overflow-hidden">
+                            <div class="position-relative">
+                                <img class="img-fluid" style="width: 100%;" src="@Model.Anh" alt="">
+                                <small class="position-absolute start-0 top-100 translate-middle-y bg-primary text-white rounded py-1 px-3 ms-4">$@(Model.Gia)/Đêm</small>
+                            </div>
+                            <div class="p-4 mt-2">
+                                <div class="d-flex justify-content-between mb-3">
+                                    <h5 class="mb-0">@Model.TenPhong</h5>
+                                    <div class="ps-2">
+                                        <small class="fa fa-star text-primary"></small>
+                                        <small class="fa fa-star text-primary"></small>
+                                        <small class="fa fa-star text-primary"></small>
+                                        <small class="fa fa-star text-primary"></small>
+                                        <small class="fa fa-star text-primary"></small>
+                                    </div>
+                                </div>
+                                <div class="d-flex mb-3">
+                                    <small class="border-end me-3 pe-3"><i class="fa fa-bed text-primary me-2"></i>@Model.SoGiuong Giường</small>
+                                    <small class="border-end me-3 pe-3"><i class="fa fa-bath text-primary me-2"></i>@Model.SoBonTam Bồn Tắm</small>
+                                    
+                                    <small class="border-end me-3 pe-3"><i class="fa fa-bath text-primary me-2"></i>@ViewBag.TenTang</small>
+                                    <small class="border-end me-3 pe-3"><i class="fa fa-bath text-primary me-2"></i>@ViewBag.TenLoaiPhong</small>
+                                    @if (Model.Wifi == true)
+                                    {
+                                        <small><i class="fa fa-wifi text-primary me-2"></i>Wifi</small>
+                                    }
+                                </div>
+                                <p class="text-body mb-3">@Model.MoTa</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="wow fadeInUp" data-wow-delay="0.2s">
+                    <form method="post" asp-action="DatPhong">
+                        <p>@TempData["msg"]</p>
+                        <input type="hidden" name="IDPhong" value="@Model.ID" />
+                        <div class="row g-3">
+                            <div class="col-md-12">
+                                <div class="form-floating date" id="date3" data-target-input="nearest">
+                                    <input type="text" autocomplete="off" name="BatDau" required class="form-control datetimepicker-input" id="checkin" placeholder="Bắt Đầu" data-target="#date3" data-toggle="datetimepicker" />
+                                    <label for="checkin">Bắt Đầu</label>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-floating date" id="date4" data-target-input="nearest">
+                                    <input type="text" autocomplete="off" name="KetThuc" required class="form-control datetimepicker-input" id="checkout" placeholder="Kết Thúc" data-target="#date4" data-toggle="datetimepicker" />
+                                    <label for="checkout">Kết Thúc</label>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="form-floating">
+                                    <textarea class="form-control" name="YeuCau" placeholder="Yêu Cầu" id="message" style="height: 100px"></textarea>
+                                    <label for="message">Yêu Cầu</label>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <button class="btn btn-primary w-100 py-3" type="submit">Đặt Ngay</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Booking End -->

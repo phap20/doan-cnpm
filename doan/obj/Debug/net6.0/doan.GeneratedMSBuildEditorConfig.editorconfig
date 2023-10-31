@@ -1,0 +1,265 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = doan
+build_property.RootNamespace = doan
+build_property.ProjectDir = D:\asp\Đồ án\doan\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\asp\Đồ án\doan
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/DichVu/HienThi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGljaFZ1XEhpZW5UaGkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/DichVu/Sua.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGljaFZ1XFN1YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/DichVu/Them.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGljaFZ1XFRoZW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/DichVu/Xoa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGljaFZ1XFhvYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/FileManager/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmlsZU1hbmFnZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/Home/DangNhap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxEYW5nTmhhcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/Home/XemChiTiet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxYZW1DaGlUaWV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/LoaiPhong/HienThi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9haVBob25nXEhpZW5UaGkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/LoaiPhong/Sua.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9haVBob25nXFN1YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/LoaiPhong/Them.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9haVBob25nXFRoZW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/LoaiPhong/Xoa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9haVBob25nXFhvYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/Menu/HienThiDS.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVudVxIaWVuVGhpRFMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/Menu/Sua.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVudVxTdWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/Menu/Them.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVudVxUaGVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/Menu/Xoa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVudVxYb2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/NguoiDung/HienThiND.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmd1b2lEdW5nXEhpZW5UaGlORC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/NguoiDung/Sua.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmd1b2lEdW5nXFN1YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/NguoiDung/Them.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmd1b2lEdW5nXFRoZW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/NguoiDung/Xoa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmd1b2lEdW5nXFhvYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/NhanVien/HienThi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmhhblZpZW5cSGllblRoaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/NhanVien/Sua.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmhhblZpZW5cU3VhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/NhanVien/Them.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmhhblZpZW5cVGhlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/NhanVien/Xoa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmhhblZpZW5cWG9hLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/Phong/HienThi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGhvbmdcSGllblRoaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/Phong/Sua.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGhvbmdcU3VhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/Phong/Them.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGhvbmdcVGhlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/Phong/Xoa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGhvbmdcWG9hLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/Shared/Components/AdminMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWRtaW5NZW51XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/Shared/_SummerNote.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9TdW1tZXJOb3RlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/Slider/HienThi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVyXEhpZW5UaGkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/Slider/Sua.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVyXFN1YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/Slider/Them.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVyXFRoZW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/Slider/Xoa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVyXFhvYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/Tang/HienThi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFuZ1xIaWVuVGhpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/Tang/Sua.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFuZ1xTdWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/Tang/Them.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFuZ1xUaGVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/Tang/Xoa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFuZ1xYb2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Views/Home/DatPhong.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXRQaG9uZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Views/Home/DichVu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEaWNoVnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Views/Home/DSDatPhong.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEU0RhdFBob25nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Views/Home/HienThiDangKy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIaWVuVGhpRGFuZ0t5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Views/Home/HienThiDangNhap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIaWVuVGhpRGFuZ05oYXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Views/Home/NhanVien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOaGFuVmllbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Views/Home/Phong.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQaG9uZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Views/Shared/Components/AboutUsIndex/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWJvdXRVc0luZGV4XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Views/Shared/Components/Booking/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQm9va2luZ1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Views/Shared/Components/DichVu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRGljaFZ1XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Views/Shared/Components/Menu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Views/Shared/Components/NhanVien/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmhhblZpZW5cRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Views/Shared/Components/rooms/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNccm9vbXNcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Views/Shared/Components/Slider/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2xpZGVyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp/Đồ án/doan/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-o36isbi51m
+
+[D:/asp/Đồ án/doan/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-4ji1674wow

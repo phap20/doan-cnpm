@@ -1,0 +1,77 @@
+﻿
+@model view_HoaDonDP
+
+<main id="main" class="main">
+	<div class="pagetitle">
+		<h2>Chi tiết đơn đặt phòng</h2>
+	</div>
+	<div class="activity-content">
+		Người Đặt: <a href="#" class="fw-bold text-dark">@Model.HoTen</a>
+    </div>
+	<div class="activity-content">
+		Địa Chỉ: <a href="#" class="fw-bold text-dark">@Model.DiaChi</a>
+    </div>
+	<div class="activity-content">
+		Số Điện Thoại: <a href="#" class="fw-bold text-dark">@Model.SoDienThoai</a>
+    </div>
+	<div class="activity-content">
+		Tên Phòng: <a href="#" class="fw-bold text-dark">@Model.TenPhong</a>
+    </div>
+	<div class="activity-content">
+		Loại Phòng: <a href="#" class="fw-bold text-dark">@Model.TenLoaiPhong</a>
+    </div>
+	<div class="activity-content">
+		Tầng: <a href="#" class="fw-bold text-dark">@Model.TenTang</a>
+    </div>
+	<div class="activity-content">
+		Số Giường: <a href="#" class="fw-bold text-dark">@Model.SoGiuong</a>
+    </div>
+	<div class="activity-content">
+		Số Bồn Tắm: <a href="#" class="fw-bold text-dark">@Model.SoBonTam</a>
+    </div>
+	<div class="activity-content">
+		Wifi: <a href="#" class="fw-bold text-dark">@Model.Wifi</a>
+    </div>
+	<div class="activity-content">
+		Mô Tả: <a href="#" class="fw-bold text-dark">@Model.MoTa</a>
+    </div>
+	<div class="activity-content">
+		Bắt Đầu: <a href="#" class="fw-bold text-dark">@Model.NgayBatDau.ToString("dd/MM/yyyy HH:mm")</a>
+    </div>
+	<div class="activity-content">
+		Ngày Kết Thúc: <a href="#" class="fw-bold text-dark">@Model.NgayKetThuc.ToString("dd/MM/yyyy HH:mm")</a>
+    </div>
+	<div class="activity-content">
+		Yêu Cầu Thêm: <a href="#" class="fw-bold text-dark">@Model.YeuCau</a>
+    </div>
+	<div class="activity-content">
+		Đơn Giá: <a href="#" class="fw-bold text-dark">$ @Model.Gia</a>
+    </div>
+	<div class="activity-content">
+		Thành Tiền: <a href="#" class="fw-bold text-dark">$ @Model.ThanhTien</a>
+    </div>
+	<div class="activity-content">
+		Trạng Thái: <a href="#" class="fw-bold text-dark">@Model.LayTrangThaiStr()</a>
+    </div>
+	<div class="activity-content">
+		Ghi Chú: <a href="#" class="fw-bold text-dark">@Model.GhiChu</a>
+    </div>
+	@if (Model.TrangThai != -1 && Model.TrangThai != 1) 
+	{
+		<div class="d-flex justify-content-center mt-2">
+			<a asp-area="Admin" asp-controller="Home" asp-action="HuyDatPhong" asp-route-id="@Model.ID" class="btn btn-danger fw-bold" style="color: #fff;">Xác nhận hủy đặt phòng</a>
+		</div>
+		if (Model.TrangThai == 0)
+		{
+			<div class="d-flex justify-content-center mt-2">
+				<a asp-area="Admin" asp-controller="Home" asp-action="XacNhanDatPhong" asp-route-id="@Model.ID" class="btn btn-success fw-bold" style="color: #fff;">Xác nhận đặt phòng</a>
+			</div>
+		}
+		if (Model.TrangThai == 2)
+		{
+			<div class="d-flex justify-content-center mt-2">
+				<a asp-area="Admin" asp-controller="Home" asp-action="HoanTatDatPhong" asp-route-id="@Model.ID" class="btn btn-success fw-bold" style="color: #fff;">Hoàn tất đặt phòng</a>
+			</div>
+		}
+	}
+</main>

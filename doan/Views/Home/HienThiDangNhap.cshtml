@@ -1,0 +1,49 @@
+﻿@model NguoiDung
+
+
+
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="~/login/css/style.css">
+
+
+
+<section class="ftco-section" style="margin-bottom: 220px;">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-md-12 col-lg-10">
+				<div class="wrap d-md-flex">
+					<div class="img" style="background-image: url(/img/about-1.jpg);">
+			    </div>
+					<div class="login-wrap p-4 p-md-5">
+			    <div class="d-flex">
+			      	<div class="w-100">
+			      		<h3 class="mb-4">Đăng Nhập</h3>
+			      	</div>
+			    </div>
+				<p class="pt-2 pb-2">@TempData["msg"]</p>
+				<form asp-action="XuLyDangNhap" method="post" class="signin-form">
+			      	<div class="form-group mb-3">
+			      		<label class="label" for="name">Tài Khoản</label>
+			      		<input type="text" asp-for="TaiKhoan" class="form-control" required>
+			      	</div>
+					<div class="form-group mb-3">
+						<label class="label" for="password">Mật Khẩu</label>
+						<input type="password" asp-for="MatKhau" class="form-control" required>
+					</div>
+					<div class="form-group">
+						<button type="submit" class="form-control btn btn-primary rounded submit px-3">Đăng Nhập</button>
+					</div>
+		        </form>
+		        <p class="text-center">Chưa có tài khoản? <a asp-action="HienThiDangKy">Đăng Ký</a></p>
+		    </div>
+		    </div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<script src="~/login/js/jquery.min.js"></script>
+<script src="~/login/js/popper.js"></script>
+<script src="~/login/js/bootstrap.min.js"></script>
+<script src="~/login/js/main.js"></script>
